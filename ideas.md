@@ -45,3 +45,7 @@ Tutorials Dojo’s AWS Certified Security – Specialty Exam Study Guide:
 https://tutorialsdojo.com/aws-certified-security-specialty-exam-study-path/
 
 ```
+Migrate encrypted to unencrypted
+```bash
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html#migrate-data-encrypted-unencrypted
+```
