@@ -1,5 +1,6 @@
 ### How to replace compromise ssh keys
-https://repost.aws/knowledge-center/user-data-replace-key-pair-ec2
+- [ ] https://repost.aws/knowledge-center/user-data-replace-key-pair-ec2
+- [ ] https://tutorialsdojo.com/automatic-ssh-key-pair-rotation-via-aws-systems-manager-fleet-manager/
 
 ### Category: SEC – Threat Detection and Incident Response
 Demostrate how user lost ssh keys / stolen how to change it and recommend ssm instead.
