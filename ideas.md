@@ -1,4 +1,5 @@
 ### How to replace compromise ssh keys
+- [ ] How can I use this for tiktok - https://www.pluralsight.com/resources/blog/cloud/12-aws-config-rules-that-every-account-should-have
 - [ ] https://repost.aws/knowledge-center/user-data-replace-key-pair-ec2
 - [ ] https://tutorialsdojo.com/automatic-ssh-key-pair-rotation-via-aws-systems-manager-fleet-manager/
 
